@@ -1,0 +1,313 @@
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ClearTech\source\clone azure repos\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Git\já enviados\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\Git\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\Gitnew\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\appsettings.json
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.exe
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.deps.json
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.json
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.runtimeconfig.dev.json
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Dapper.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Humanizer.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Zstandard.Net.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.AssemblyReference.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfoInputs.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.AssemblyInfo.cs
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CoreCompileInputs.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\scopedcss\bundle\ProjetoEcommerceAPI.styles.css
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\staticwebassets\ProjetoEcommerceAPI.StaticWebAssets.Manifest.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.RazorTargetAssemblyInfo.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.csproj.CopyComplete
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\refint\ProjetoEcommerceAPI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.pdb
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ProjetoEcommerceAPI.genruntimeconfig.cache
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\obj\Debug\net5.0\ref\ProjetoEcommerceAPI.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\FluentResults.dll
+C:\pasta teste\T3-VanessaSilva\ProjetoEcommerceAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
